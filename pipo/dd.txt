@@ -1,0 +1,51 @@
+a.out
+dd.txt
+list.c
+list.txt
+ls_list.c
+pipo.c
+shellp.c
+who.c
+a.out
+dd.txt
+list.c
+list.txt
+ls_list.c
+pipo.c
+shellp.c
+who.c
+a.out
+dd.txt
+list.c
+list.txt
+ls_list.c
+pipo.c
+shellp.c
+who.c
+总用量 44
+-rwxrwxr-x 1 gaofengyun gaofengyun 8848 5月  16 22:08 a.out
+-rw-rw-r-- 1 gaofengyun gaofengyun  183 5月  16 21:45 dd.txt
+-rw-rw-rw- 1 gaofengyun gaofengyun  685 5月  16 21:54 list.c
+-rw-rw---- 1 gaofengyun gaofengyun    2 5月  16 21:53 list.txt
+-rw-rw-r-- 1 gaofengyun gaofengyun  390 5月  16 22:07 ls_list.c
+-rw-rw-rw- 1 gaofengyun gaofengyun 5324 5月  16 03:28 pipo.c
+-rw-rw-rw- 1 gaofengyun gaofengyun 3767 5月  16 03:29 shellp.c
+-rw-rw-rw- 1 gaofengyun gaofengyun  766 5月  12 19:34 who.c
+总用量 44
+-rwxrwxr-x 1 gaofengyun gaofengyun 8848 5月  16 22:08 a.out
+-rw-rw-r-- 1 gaofengyun gaofengyun  697 5月  16 22:08 dd.txt
+-rw-rw-rw- 1 gaofengyun gaofengyun  685 5月  16 21:54 list.c
+-rw-rw---- 1 gaofengyun gaofengyun    2 5月  16 21:53 list.txt
+-rw-rw-r-- 1 gaofengyun gaofengyun  390 5月  16 22:07 ls_list.c
+-rw-rw-rw- 1 gaofengyun gaofengyun 5324 5月  16 03:28 pipo.c
+-rw-rw-rw- 1 gaofengyun gaofengyun 3767 5月  16 03:29 shellp.c
+-rw-rw-rw- 1 gaofengyun gaofengyun  766 5月  12 19:34 who.c
+总用量 44
+-rwxrwxr-x 1 gaofengyun gaofengyun 8848 5月  16 22:08 a.out
+-rw-rw-r-- 1 gaofengyun gaofengyun 1211 5月  16 22:08 dd.txt
+-rw-rw-rw- 1 gaofengyun gaofengyun  685 5月  16 21:54 list.c
+-rw-rw---- 1 gaofengyun gaofengyun    2 5月  16 21:53 list.txt
+-rw-rw-r-- 1 gaofengyun gaofengyun  390 5月  16 22:07 ls_list.c
+-rw-rw-rw- 1 gaofengyun gaofengyun 5324 5月  16 03:28 pipo.c
+-rw-rw-rw- 1 gaofengyun gaofengyun 3767 5月  16 03:29 shellp.c
+-rw-rw-rw- 1 gaofengyun gaofengyun  766 5月  12 19:34 who.c
